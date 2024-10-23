@@ -1,0 +1,1335 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:200 (message)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      The target system is: Generic -  - ARM
+      The host system is: Windows - 10.0.22631 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -Aa 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -D__CLASSIC_C__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --c++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --ec++ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c;-I__does_not_exist__ 
+      
+      The output was:
+      no such file or directory
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:1178 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:86 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+...
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+      Compiler: D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/real-ld.exe: d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib\\libc.a(lib_a-exit.o): in function `exit':
+      (.text.exit+0x2c): undefined reference to `_exit'
+      collect2.exe: error: ld returned 1 exit status
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+      
+      The C compiler identification is GNU, found in:
+        D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/3.29.3/CompilerIdC/CMakeCCompilerId.o
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+      Compiler: D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      1
+      d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/real-ld.exe: d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib\\libc.a(lib_a-exit.o): in function `exit':
+      (.text.exit+0x2c): undefined reference to `_exit'
+      collect2.exe: error: ld returned 1 exit status
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler: D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe 
+      Build flags: 
+      Id flags: -c 
+      
+      The output was:
+      0
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+      
+      The CXX compiler identification is GNU, found in:
+        D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/3.29.3/CompilerIdCXX/CMakeCXXCompilerId.o
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:8 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6"
+      binary: "D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: ""
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6'
+        
+        Run Build Command(s): D:/Cmake/bin/cmake.exe -E env VERBOSE=1 D:/tools_stm/make-3.81/bin/make.exe -f Makefile cmTC_d2d22/fast
+        D:/tools_stm/make-3.81/bin/make.exe  -f CMakeFiles/cmTC_d2d22.dir/build.make CMakeFiles/cmTC_d2d22.dir/build
+        make.exe[1]: ─Éang v├áo th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6 ┬╗
+        Building C object CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj
+        D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe   -v -o CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj -c D:/Cmake/share/cmake-3.29/Modules/CMakeCCompilerABI.c
+        Using built-in specs.
+        COLLECT_GCC=D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe
+        Target: arm-none-eabi
+        Configured with: ../src_gcc/configure --build=x86_64-unknown-linux-gnu --target=arm-none-eabi --host=i686-w64-mingw32 --with-long-double-128 --enable-poison-system-directories --with-gnu-as --with-gnu-ld --disable-libstdcxx-pch --disable-libssp --disable-libmudflap --disable-bootstrap --disable-libquadmath --disable-nls --enable-symvers=gnu --enable-__cxa_atexit --with-pkgversion='BLD = 1728' --enable-threads --prefix=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32 --with-sysroot=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-sysroot=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-time-tools=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi/bin --enable-languages=c,c++,fortran --disable-__cxa_atexit --enable-lto --enable-shared --disable-threads --without-included-gettext --disable-sjlj-exceptions --enable-gnu-unique-object --enable-c99 --enable-clocale=gnu --enable-long-long --enable-multilib --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-gmp=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpfr=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpc=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-ppl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-isl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-cloog=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --enable-cloog-backend=isl --with-libiconv-prefix=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr
+        Thread model: single
+        Supported LTO compression algorithms: zlib
+        gcc version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (BLD = 1728) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/cc1.exe -quiet -v -iprefix d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/ -isysroot d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Cmake/share/cmake-3.29/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj -version -o C:\\Users\\LEGION\\AppData\\Local\\Temp\\ccoJCeYl.s
+        GNU C17 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)
+        	compiled by GNU C version 7.3-win32 20180312, GMP version 6.2.0, MPFR version 4.1.0, MPC version 1.2.0, isl version isl-0.16.1-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include"
+        ignoring nonexistent directory "d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/lib/gcc/arm-none-eabi/10.2.0/../../../../include"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include-fixed"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include-fixed
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/usr/include
+        End of search list.
+        GNU C17 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)
+        	compiled by GNU C version 7.3-win32 20180312, GMP version 6.2.0, MPFR version 4.1.0, MPC version 1.2.0, isl version isl-0.16.1-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 032b4d59facf5ecfa9e6038fdd3447d7
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj C:\\Users\\LEGION\\AppData\\Local\\Temp\\ccoJCeYl.s
+        GNU assembler version 2.35 (arm-none-eabi) using BFD version (GNU Binutils build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC (BLD = 1728)) 2.35
+        COMPILER_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/
+        LIBRARY_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/lib/
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+        Linking C static library libcmTC_d2d22.a
+        D:/Cmake/bin/cmake.exe -P CMakeFiles/cmTC_d2d22.dir/cmake_clean_target.cmake
+        D:/Cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_d2d22.dir/link.txt --verbose=1
+        C:/MinGW/bin/ar.exe qc libcmTC_d2d22.a CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj
+        C:/MinGW/bin/ranlib.exe libcmTC_d2d22.a
+        make.exe[1]: ─Éang rß╗¥i khß╗Åi th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6 ┬╗
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:137 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include-fixed]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/usr/include]
+        end of search list found
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include-fixed] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include-fixed]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/usr/include] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/usr/include]
+        implicit include dirs: [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include-fixed;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/usr/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6']
+        ignore line: []
+        ignore line: [Run Build Command(s): D:/Cmake/bin/cmake.exe -E env VERBOSE=1 D:/tools_stm/make-3.81/bin/make.exe -f Makefile cmTC_d2d22/fast]
+        ignore line: [D:/tools_stm/make-3.81/bin/make.exe  -f CMakeFiles/cmTC_d2d22.dir/build.make CMakeFiles/cmTC_d2d22.dir/build]
+        ignore line: [make.exe[1]: ─Éang v├áo th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6 ┬╗]
+        ignore line: [Building C object CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe   -v -o CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj -c D:/Cmake/share/cmake-3.29/Modules/CMakeCCompilerABI.c]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-gcc.exe]
+        ignore line: [Target: arm-none-eabi]
+        ignore line: [Configured with: ../src_gcc/configure --build=x86_64-unknown-linux-gnu --target=arm-none-eabi --host=i686-w64-mingw32 --with-long-double-128 --enable-poison-system-directories --with-gnu-as --with-gnu-ld --disable-libstdcxx-pch --disable-libssp --disable-libmudflap --disable-bootstrap --disable-libquadmath --disable-nls --enable-symvers=gnu --enable-__cxa_atexit --with-pkgversion='BLD = 1728' --enable-threads --prefix=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32 --with-sysroot=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-sysroot=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-time-tools=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi/bin --enable-languages=c,c++,fortran --disable-__cxa_atexit --enable-lto --enable-shared --disable-threads --without-included-gettext --disable-sjlj-exceptions --enable-gnu-unique-object --enable-c99 --enable-clocale=gnu --enable-long-long --enable-multilib --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-gmp=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpfr=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpc=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-ppl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-isl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-cloog=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --enable-cloog-backend=isl --with-libiconv-prefix=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr]
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (BLD = 1728) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t']
+        ignore line: [ d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/cc1.exe -quiet -v -iprefix d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/ -isysroot d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Cmake/share/cmake-3.29/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj -version -o C:\\Users\\LEGION\\AppData\\Local\\Temp\\ccoJCeYl.s]
+        ignore line: [GNU C17 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)]
+        ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.2.0  MPFR version 4.1.0  MPC version 1.2.0  isl version isl-0.16.1-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include"]
+        ignore line: [ignoring nonexistent directory "d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/lib/gcc/arm-none-eabi/10.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include-fixed]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/usr/include]
+        ignore line: [End of search list.]
+        ignore line: [GNU C17 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)]
+        ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.2.0  MPFR version 4.1.0  MPC version 1.2.0  isl version isl-0.16.1-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: 032b4d59facf5ecfa9e6038fdd3447d7]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t']
+        ignore line: [ d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj C:\\Users\\LEGION\\AppData\\Local\\Temp\\ccoJCeYl.s]
+        ignore line: [GNU assembler version 2.35 (arm-none-eabi) using BFD version (GNU Binutils build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC (BLD = 1728)) 2.35]
+        ignore line: [COMPILER_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/]
+        ignore line: [LIBRARY_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/lib/]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t']
+        ignore line: [Linking C static library libcmTC_d2d22.a]
+        ignore line: [D:/Cmake/bin/cmake.exe -P CMakeFiles/cmTC_d2d22.dir/cmake_clean_target.cmake]
+        ignore line: [D:/Cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_d2d22.dir/link.txt --verbose=1]
+        ignore line: [C:/MinGW/bin/ar.exe qc libcmTC_d2d22.a CMakeFiles/cmTC_d2d22.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:/MinGW/bin/ranlib.exe libcmTC_d2d22.a]
+        ignore line: [make.exe[1]: ─Éang rß╗¥i khß╗Åi th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-erbkl6 ┬╗]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:67 (try_compile)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:8 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0"
+      binary: "D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: ""
+      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
+      CMAKE_EXE_LINKER_FLAGS: ""
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0'
+        
+        Run Build Command(s): D:/Cmake/bin/cmake.exe -E env VERBOSE=1 D:/tools_stm/make-3.81/bin/make.exe -f Makefile cmTC_ffed6/fast
+        D:/tools_stm/make-3.81/bin/make.exe  -f CMakeFiles/cmTC_ffed6.dir/build.make CMakeFiles/cmTC_ffed6.dir/build
+        make.exe[1]: ─Éang v├áo th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0 ┬╗
+        Building CXX object CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj
+        D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe   -v -o CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj -c D:/Cmake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp
+        Using built-in specs.
+        COLLECT_GCC=D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe
+        Target: arm-none-eabi
+        Configured with: ../src_gcc/configure --build=x86_64-unknown-linux-gnu --target=arm-none-eabi --host=i686-w64-mingw32 --with-long-double-128 --enable-poison-system-directories --with-gnu-as --with-gnu-ld --disable-libstdcxx-pch --disable-libssp --disable-libmudflap --disable-bootstrap --disable-libquadmath --disable-nls --enable-symvers=gnu --enable-__cxa_atexit --with-pkgversion='BLD = 1728' --enable-threads --prefix=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32 --with-sysroot=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-sysroot=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-time-tools=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi/bin --enable-languages=c,c++,fortran --disable-__cxa_atexit --enable-lto --enable-shared --disable-threads --without-included-gettext --disable-sjlj-exceptions --enable-gnu-unique-object --enable-c99 --enable-clocale=gnu --enable-long-long --enable-multilib --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-gmp=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpfr=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpc=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-ppl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-isl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-cloog=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --enable-cloog-backend=isl --with-libiconv-prefix=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr
+        Thread model: single
+        Supported LTO compression algorithms: zlib
+        gcc version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (BLD = 1728) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/cc1plus.exe -quiet -v -iprefix d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/ -isysroot d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Cmake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\LEGION\\AppData\\Local\\Temp\\cceY1S3c.s
+        GNU C++14 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)
+        	compiled by GNU C version 7.3-win32 20180312, GMP version 6.2.0, MPFR version 4.1.0, MPC version 1.2.0, isl version isl-0.16.1-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include"
+        ignoring nonexistent directory "d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/lib/gcc/arm-none-eabi/10.2.0/../../../../include"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include-fixed"
+        ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include-fixed
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include
+         d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/usr/include
+        End of search list.
+        GNU C++14 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)
+        	compiled by GNU C version 7.3-win32 20180312, GMP version 6.2.0, MPFR version 4.1.0, MPC version 1.2.0, isl version isl-0.16.1-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: 400e155329f9ba73b6c28c06ebcdd1f3
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+         d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\LEGION\\AppData\\Local\\Temp\\cceY1S3c.s
+        GNU assembler version 2.35 (arm-none-eabi) using BFD version (GNU Binutils build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC (BLD = 1728)) 2.35
+        COMPILER_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/
+        LIBRARY_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/;d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/lib/
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t'
+        Linking CXX static library libcmTC_ffed6.a
+        D:/Cmake/bin/cmake.exe -P CMakeFiles/cmTC_ffed6.dir/cmake_clean_target.cmake
+        D:/Cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_ffed6.dir/link.txt --verbose=1
+        C:/MinGW/bin/ar.exe qc libcmTC_ffed6.a CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj
+        C:/MinGW/bin/ranlib.exe libcmTC_ffed6.a
+        make.exe[1]: ─Éang rß╗¥i khß╗Åi th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0 ┬╗
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:137 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Parsed CXX implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include-fixed]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include]
+          add: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/usr/include]
+        end of search list found
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include/c++/10.2.0]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include/c++/10.2.0/arm-none-eabi]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include/c++/10.2.0/backward]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/include-fixed] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include-fixed]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include]
+        collapse include dir [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/usr/include] ==> [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/usr/include]
+        implicit include dirs: [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include/c++/10.2.0;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include/c++/10.2.0/arm-none-eabi;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include/c++/10.2.0/backward;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/lib/gcc/arm-none-eabi/10.2.0/include-fixed;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/include;D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/arm-none-eabi/usr/include]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:173 (message)"
+      - "D:/Cmake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:8 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
+        ignore line: [Change Dir: 'D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0']
+        ignore line: []
+        ignore line: [Run Build Command(s): D:/Cmake/bin/cmake.exe -E env VERBOSE=1 D:/tools_stm/make-3.81/bin/make.exe -f Makefile cmTC_ffed6/fast]
+        ignore line: [D:/tools_stm/make-3.81/bin/make.exe  -f CMakeFiles/cmTC_ffed6.dir/build.make CMakeFiles/cmTC_ffed6.dir/build]
+        ignore line: [make.exe[1]: ─Éang v├áo th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0 ┬╗]
+        ignore line: [Building CXX object CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe   -v -o CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj -c D:/Cmake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=D:/GIT/Cmake/Code/Gcc_Compiler/gcc-10.2-arm32-eabi/bin/arm-none-eabi-g++.exe]
+        ignore line: [Target: arm-none-eabi]
+        ignore line: [Configured with: ../src_gcc/configure --build=x86_64-unknown-linux-gnu --target=arm-none-eabi --host=i686-w64-mingw32 --with-long-double-128 --enable-poison-system-directories --with-gnu-as --with-gnu-ld --disable-libstdcxx-pch --disable-libssp --disable-libmudflap --disable-bootstrap --disable-libquadmath --disable-nls --enable-symvers=gnu --enable-__cxa_atexit --with-pkgversion='BLD = 1728' --enable-threads --prefix=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32 --with-sysroot=/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-sysroot=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi --with-build-time-tools=/local/nxa09502/release//opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/arm-none-eabi/bin --enable-languages=c,c++,fortran --disable-__cxa_atexit --enable-lto --enable-shared --disable-threads --without-included-gettext --disable-sjlj-exceptions --enable-gnu-unique-object --enable-c99 --enable-clocale=gnu --enable-long-long --enable-multilib --with-multilib-list=rmprofile --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --with-gmp=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpfr=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-mpc=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-ppl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-isl=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --with-cloog=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr --enable-cloog-backend=isl --with-libiconv-prefix=/local/nxa09502/release//opt/freescale/Earmv7nGCC/mingw32_host_libs/usr]
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (BLD = 1728) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t']
+        ignore line: [ d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/cc1plus.exe -quiet -v -iprefix d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/ -isysroot d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi -D__USES_INITFINI__ D:/Cmake/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm7tdmi -mfloat-abi=soft -marm -march=armv4t -auxbase-strip CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj -version -o C:\\Users\\LEGION\\AppData\\Local\\Temp\\cceY1S3c.s]
+        ignore line: [GNU C++14 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)]
+        ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.2.0  MPFR version 4.1.0  MPC version 1.2.0  isl version isl-0.16.1-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include"]
+        ignore line: [ignoring nonexistent directory "d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/opt/freescale/gcc-10.2.0-Earmv7GCC-eabi/i686-mingw32/lib/gcc/arm-none-eabi/10.2.0/../../../../include"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/include-fixed"]
+        ignore line: [ignoring duplicate directory "d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/lib/gcc/../../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/arm-none-eabi]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include/c++/10.2.0/backward]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/include-fixed]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/include]
+        ignore line: [ d:\\git\\cmake\\code\\gcc_compiler\\gcc-10.2-arm32-eabi\\bin\\../arm-none-eabi/usr/include]
+        ignore line: [End of search list.]
+        ignore line: [GNU C++14 (BLD = 1728) version 10.2.0 20200723 (build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC) (arm-none-eabi)]
+        ignore line: [	compiled by GNU C version 7.3-win32 20180312  GMP version 6.2.0  MPFR version 4.1.0  MPC version 1.2.0  isl version isl-0.16.1-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: 400e155329f9ba73b6c28c06ebcdd1f3]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t']
+        ignore line: [ d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\LEGION\\AppData\\Local\\Temp\\cceY1S3c.s]
+        ignore line: [GNU assembler version 2.35 (arm-none-eabi) using BFD version (GNU Binutils build.sh rev=g5963bc8 s=F1020 -i /opt/freescale Earmv7nGCC -V release_g5963bc8_build_Fed_Earmv7nGCC (BLD = 1728)) 2.35]
+        ignore line: [COMPILER_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/arm-none-eabi/10.2.0/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../libexec/gcc/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/bin/]
+        ignore line: [LIBRARY_PATH=d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../lib/gcc/arm-none-eabi/10.2.0/../../../../arm-none-eabi/lib/]
+        ignore line: [d:/git/cmake/code/gcc_compiler/gcc-10.2-arm32-eabi/bin/../arm-none-eabi/lib/]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-march=armv4t']
+        ignore line: [Linking CXX static library libcmTC_ffed6.a]
+        ignore line: [D:/Cmake/bin/cmake.exe -P CMakeFiles/cmTC_ffed6.dir/cmake_clean_target.cmake]
+        ignore line: [D:/Cmake/bin/cmake.exe -E cmake_link_script CMakeFiles/cmTC_ffed6.dir/link.txt --verbose=1]
+        ignore line: [C:/MinGW/bin/ar.exe qc libcmTC_ffed6.a CMakeFiles/cmTC_ffed6.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:/MinGW/bin/ranlib.exe libcmTC_ffed6.a]
+        ignore line: [make.exe[1]: ─Éang rß╗¥i khß╗Åi th╞░ mß╗Ñc ┬½ D:/GIT/Cmake/Code/0GioiThieu/Build/CMakeFiles/CMakeScratch/TryCompile-m77ak0 ┬╗]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+...
